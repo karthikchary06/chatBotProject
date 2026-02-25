@@ -1,12 +1,38 @@
-# React + Vite
+# 🤖 Chatbot UI Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive chatbot interface built using React.  
+This project simulates chatbot responses using dummy data (no backend).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 Live Application (Vercel):  
+https://chat-bot-project-g69lccjpl-karthiks-projects-fa874fb0.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🏗 Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+- CSS
+- Component-based architecture
+- useState & useEffect hooks
+
+Deployed on: **Vercel**
+
+---
+
+## 📦 Features
+
+- 💬 Chat interface UI
+- 📜 Message history
+- 🤖 Simulated bot responses (dummy data)
+- ⌨ User input handling
+- 📱 Responsive design
+- 🚀 Production deployment
+
+---
+
+## 📁 Project Structure
